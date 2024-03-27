@@ -33,3 +33,6 @@ Projeto desenvolvido com base na necessidade reportada pelo comercial da Prisma,
 | `planilha`      | `multipart/form-data` | **Obrigatório**. O arquivo Excel (.xlsx) contendo os dados a serem atualizados |
 
 
+
+![Logo](https://prismainformatica.com.br/wdadmin/uploads/informacoes_gerais/logo-alternativa-prisma-softwares-de-gestao-202307052041.png)
+
